@@ -52,20 +52,34 @@ Execute
       Recursively explores possibilities and backtracks on conflicts.
 
 📌 Sample Output
+
 Unsolved Sudoku Puzzle:
+
 +-------+-------+-------+
 | 0 0 0 | 0 0 0 | 6 8 0 |
+
 | 0 0 0 | 0 7 3 | 0 0 9 |
+
 | 3 0 9 | 0 0 0 | 0 4 5 |
+
 +-------+-------+-------+
+
 | 4 9 0 | 0 0 0 | 0 0 0 |
+
 | 8 0 3 | 0 5 0 | 9 0 2 |
+
 | 0 0 0 | 0 0 0 | 0 3 6 |
+
 +-------+-------+-------+
+
 | 9 6 0 | 0 0 0 | 3 0 8 |
+
 | 7 0 0 | 6 8 0 | 0 0 0 |
+
 | 0 2 8 | 0 0 0 | 0 0 0 |
+
 +-------+-------+-------+
+
 Solved Sudoku:
 +-------+-------+-------+
 | 1 4 2 | 9 3 5 | 6 7 8 |
@@ -87,6 +101,7 @@ Solved Sudoku:
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
+
 
 
 
