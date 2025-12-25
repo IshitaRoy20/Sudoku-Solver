@@ -56,7 +56,8 @@ Execute
 Unsolved Sudoku Puzzle:
 
 +-------+-------+-------+
-| 0 0 0 | 0 0 0 | 6 8 0 |
+
+| 0  0  0 | 0  0  0 | 6  8  0 |
 
 | 0 0 0 | 0 7 3 | 0 0 9 |
 
@@ -101,6 +102,7 @@ Solved Sudoku:
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
+
 
 
 
