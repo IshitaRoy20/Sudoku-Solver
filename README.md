@@ -1,4 +1,4 @@
-#🧩 Sudoku Solver (C++)
+🧩 #Sudoku Solver (C++)
 
 A C++ based Sudoku Solver and Generator that can automatically generate valid Sudoku puzzles and solve them using backtracking algorithms. The project demonstrates efficient problem-solving, recursion, and clean modular design in C++.
 
@@ -91,3 +91,4 @@ Solved Sudoku:
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
+
