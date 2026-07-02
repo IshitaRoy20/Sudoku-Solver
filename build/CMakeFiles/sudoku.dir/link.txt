@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/sudoku.dir/main.cpp.o -o sudoku 
