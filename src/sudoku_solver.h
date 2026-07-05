@@ -324,13 +324,13 @@ inline void solve(Grid& grid)
 {
     CandidateBoard cands = build_candidates(grid);
 
-    if (!ac3(grid, cands))
+    if (!propagate(grid, cands))
         throw std::logic_error("Puzzle has no solution.");
 
     if (is_fully_filled(grid)) return;
 
     int dummy = 0;
-    if (!solve_recursive(grid, cands, dummy, true))
+    if (!solve_recursive(grid, cands, dummy, false))
         throw std::logic_error("Puzzle has no solution.");
 }
 
